@@ -7,8 +7,6 @@ tasks:
 ports:
   - port: 5432
     onOpen: ignore
-  - port: 80
-    onOpen: ignore
 
 vscode:
   extensions:
